@@ -573,6 +573,12 @@ li, a, button {
   padding: 0 1%;
 }
 
+@media only screen and (max-width: 400px) { /* Landing page correction */
+  .jumping-girl{
+    display: none;
+  }
+}
+
 /* Media Queries for Nav-bar */
 @media only screen and (max-width: 1080px) { /* Landing page correction */
   .nav-list li{
