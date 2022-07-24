@@ -632,6 +632,7 @@ li, a, button {
   .menu-btn{
     display: inline;
     position: relative;
+    width: 23px;
     margin: 20px;
   }
   .nav-list-phone{
